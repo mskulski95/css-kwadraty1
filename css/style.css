@@ -1,0 +1,34 @@
+.main{
+    background-color: #f5f5dd;
+    width: 10cm;
+    height: 20cm;
+}
+
+
+div{
+    width: 4cm;
+    height: 4cm;
+    background-color: black;
+    background-position: center;
+    margin: 0.5cm;
+}
+
+#one{
+    background-color: rgba(0, 0, 0, 1);  
+    margin-left:2.5cm;
+}
+
+#two{
+    background-color: rgba(0, 0, 0, 0.75);
+    margin-left:2.5cm;
+}
+
+#three{
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left:2.5cm;
+}
+
+#four{
+    background-color: rgba(0, 0, 0, 0.25);
+    margin-left:2.5cm;
+}
